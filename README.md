@@ -1,4 +1,5 @@
-O objetivo do repositório a seguir é ter inúmeros links de referência para tópicos em Big Data.
+# Big Data Resources Repository
+Bem-vindo ao repositório de recursos de Big Data! Aqui você encontrará uma coleção de links para conteúdos sobre Big Data, incluindo artigos, tutoriais, vídeos, cursos e outros materiais úteis. Este repositório visa ser uma referência abrangente para aqueles que desejam aprender e explorar mais sobre Big Data.
 
 ## 1. Introdução ao Big Data
 #### 1.1 Definição de Big Data: volume, variedade, velocidade, veracidade, valor (*5 Vs*).
