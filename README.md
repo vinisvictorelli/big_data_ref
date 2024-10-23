@@ -2,9 +2,7 @@ O objetivo do repositório a seguir é ter inúmeros links de referência para t
 
 ## 1. Introdução ao Big Data
 #### 1.1 Definição de Big Data: volume, variedade, velocidade, veracidade, valor (*5 Vs*).
-##### Português (Brasil)
 - [Big Data: Definição e Um Breve Histórico](https://medium.com/@stratiobd/big-data-defini%C3%A7%C3%A3o-e-um-breve-hist%C3%B3rico-a389abcf6a3)
-##### Inglês
 - [Big Data - An Introduction](https://medium.com/analytics-vidhya/big-data-an-introduction-b7bc048081c9)
 #### 1.2 Diferença entre dados estruturados, semiestruturados e não estruturados.
 #### 1.3 História e evolução de Big Data.
@@ -13,9 +11,7 @@ O objetivo do repositório a seguir é ter inúmeros links de referência para t
 
 ## 2. Arquitetura de Sistemas de Big Data
 #### 2.1 Arquitetura Lambda e Arquitetura Kappa.
-##### Português (Brasil)
 - [Conheça a Arquitetura Lambda (Big Data) by Escola de Inteligência artificial](https://www.youtube.com/watch?v=HAia6aCHcq8&ab_channel=EscoladeIntelig%C3%AAnciaArtificial)
-##### Inglês
 #### 2.2 Componentes de uma arquitetura de Big Data: ingestão, armazenamento, processamento, análise e visualização.
 #### 2.3 NoSQL vs SQL: diferenças, vantagens e desvantagens.
 
