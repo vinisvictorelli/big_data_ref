@@ -3,7 +3,7 @@ O objetivo do repositório a seguir é ter inúmeros links de referência para t
 ## 1. Introdução ao Big Data
 #### 1.1 Definição de Big Data: volume, variedade, velocidade, veracidade, valor (*5 Vs*).
 - [Big Data - An Introduction](https://medium.com/analytics-vidhya/big-data-an-introduction-b7bc048081c9)
-- https://medium.com/@stratiobd/big-data-defini%C3%A7%C3%A3o-e-um-breve-hist%C3%B3rico-a389abcf6a3
+- [Big Data: Definição e Um Breve Histórico] (https://medium.com/@stratiobd/big-data-defini%C3%A7%C3%A3o-e-um-breve-hist%C3%B3rico-a389abcf6a3)
 #### 1.2 Diferença entre dados estruturados, semiestruturados e não estruturados.
 #### 1.3 História e evolução de Big Data.
 #### 1.4 Importância e impacto do Big Data na era digital.
